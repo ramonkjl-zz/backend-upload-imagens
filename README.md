@@ -2,6 +2,7 @@
 Backend para aplicação de uploads de imagens
 
 ## Modulos Utilizados
+``
 - Express
 - - para o gerenciamentos de rotas
 - Multer
@@ -14,3 +15,4 @@ Backend para aplicação de uploads de imagens
 - - para log de requisições HTTP
 - Dotenv
 - - para auxiliar no gerenciamento das variáveis de ambiente.
+``
